@@ -1,4 +1,7 @@
 class hello
 
   def say_hello
-    puts hello
+    puts "hello, world"
+  end
+end
+
